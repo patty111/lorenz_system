@@ -1,5 +1,5 @@
 # Lorenz System simulate  
-Simulates a Lorenz system. 
+Simulates a Lorenz system. \
 I was discussing with my friend about the course he was studying lately.    
   \
   \
